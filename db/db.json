@@ -53,6 +53,13 @@
     },
     {
       "id": "5968"
+    },
+    {
+      "id": "6b56",
+      "name": "Quân123",
+      "email": "quan123@gmail.com",
+      "pass": "123",
+      "rePass": "123"
     }
   ],
   "posts": [
