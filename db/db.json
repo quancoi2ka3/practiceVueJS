@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "ec53",
+      "name": "quan123",
+      "email": "2151060189@e.tlu.edu.vn",
+      "pass": "123",
+      "rePass": "123"
+    },
+    {
+      "id": "ef95",
+      "name": "khoa cntt",
+      "email": "123",
+      "pass": "123",
+      "rePass": "123"
+    },
+    {
+      "id": "2a5d",
+      "name": "quan1234",
+      "email": "phc@gmail.com",
+      "pass": "1234",
+      "rePass": "1234"
+    },
+    {
+      "id": "5d3d",
+      "name": "Quân",
+      "email": "nmq1773@gmail.com",
+      "pass": "1234",
+      "rePass": "123"
+    },
+    {
+      "id": "54f9",
+      "name": "Quân 2",
+      "email": "pns@gmail.com",
+      "pass": "123",
+      "rePass": "123"
+    },
+    {
+      "id": "ce7c",
+      "name": "quanmm",
+      "email": "123@abc.ii",
+      "pass": "123",
+      "rePass": "123"
+    },
+    {
+      "id": "0ec6",
+      "email": "nguyenmanhquan17072003@gmail.com",
+      "pass": "",
+      "password": "123"
+    },
+    {
+      "id": "a732"
+    },
+    {
+      "id": "5968"
+    }
+  ],
+  "posts": [
+    {
+      "id": "a8bf",
+      "title": "con chó sena",
+      "content": "con chó sena\ncon chó sena\ncon chó sena\ncon chó sena",
+      "userId": "54f9",
+      "userName": "Quân 2",
+      "createdAt": "2025-02-22T03:00:36.996Z"
+    },
+    {
+      "id": "cfc6",
+      "title": "1 con vịt ",
+      "content": "Vịt Con - Một Con Vịt Một con vịt vàng năm con vịt vàng Chú vịt con lông vàng Đôi mắt chú tròn xoe Miệng thì kêu chíp chíp Ai cũng yêu chú nè ...",
+      "userId": "54f9",
+      "userName": "Quân 2",
+      "createdAt": "2025-02-22T03:03:44.682Z"
+    },
+    {
+      "id": "38b9",
+      "title": "ba con gà con",
+      "content": "ba con gà con\nba con gà con\nba con gà con\nba con gà con",
+      "userId": "54f9",
+      "userName": "Quân 2",
+      "createdAt": "2025-02-22T03:13:36.808Z"
+    }
+  ]
+}
