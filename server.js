@@ -1,15 +1,13 @@
-import jsonServer from 'json-server';
+import { create, router as _router, defaults } from 'json-server';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
-import { createRequire } from 'module';
 
-const require = createRequire(import.meta.url);
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const server = jsonServer.create();
-const router = jsonServer.router(join(__dirname, 'db', 'db.json'));
-const middlewares = jsonServer.defaults();
+const server = create();
+const router = _router(join(__dirname, 'db', 'db.json'));
+const middlewares = defaults();
 
 // Add CORS middleware
 server.use(middlewares);
