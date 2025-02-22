@@ -30,7 +30,7 @@
     },
     {
       "id": "54f9",
-      "name": "Quân 2",
+      "name": "QuânAdmin",
       "email": "pns@gmail.com",
       "pass": "123",
       "rePass": "123"
@@ -60,6 +60,13 @@
       "email": "quan123@gmail.com",
       "pass": "123",
       "rePass": "123"
+    },
+    {
+      "id": "3730",
+      "name": "quan123",
+      "email": "quan123124123@gmail.com",
+      "pass": "123",
+      "rePass": "123"
     }
   ],
   "posts": [
@@ -86,6 +93,14 @@
       "userId": "54f9",
       "userName": "Quân 2",
       "createdAt": "2025-02-22T03:13:36.808Z"
+    },
+    {
+      "id": "e97c",
+      "title": "newpost",
+      "content": "faddsafsdfsadasfdsfsdfasdfsadfsdfsdaf",
+      "userId": "54f9",
+      "userName": "Quân 2",
+      "createdAt": "2025-02-22T05:30:45.287Z"
     }
   ]
 }
